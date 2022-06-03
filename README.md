@@ -68,5 +68,4 @@ git add . ; git commit -m "add two files" ; git push
 Сделать коммит bug_report.json
 
 Синхронизировать внешний и локальный репозиторий JSON
-git fetch
 git pull
